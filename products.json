@@ -1,0 +1,69 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Versace",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/colo1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Eternity",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/colo2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Aqua di Gio",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/colo3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Cool Water",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/colo4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Calvin Klein",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./images/colo5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Carolina Herrera",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./images/colo6.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Diesel",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./images/colo7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Diesel",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./images/colo8.jpg" } } }
+        }
+      }
+    ]
+  }
+ 
